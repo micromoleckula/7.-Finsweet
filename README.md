@@ -1,1 +1,3 @@
-# 7.-Finsweet
+Finsweet
+
+![Alt text](image.png)
