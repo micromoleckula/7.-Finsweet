@@ -1,0 +1,37 @@
+.header {
+  height: 67px;
+  background-color: white;
+  display: flex;
+  justify-content: space-between;
+}
+
+.header-logo {
+  color: black;
+  font-size: 16px;
+  margin-left: 110px;
+  margin-top: 20px;
+}
+
+.header-ul {
+  display: flex;
+  margin-right: 110px;
+  display: inline-block;
+}
+
+.header-li {
+  color: #525560;
+  font-size: 12px;
+  display: inline-block;
+  margin-top: 24p;
+  margin-left: 40px;
+}
+
+.header-li-donate {
+  padding: 12px 32px 12px 32px;
+  background: #1D2130;
+  color: white;
+  display: inline-block;
+  margin-top: 12px;
+  margin-left: 40px;
+  border-radius: 4px;
+}
