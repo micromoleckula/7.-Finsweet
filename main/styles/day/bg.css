@@ -1,7 +1,19 @@
-.bg-img {
-  min-height: 100%;
+.bg {
+  background-image: url(/main/img/png/bg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
   width: 100%;
   height: 100%;
   top: 0;
   left: 0;
+  position: relative;
+}
+
+.words-bg {
+  color: #FFF;
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 120%;
+  max-width: 500px;
 }
