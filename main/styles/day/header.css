@@ -5,11 +5,16 @@
   justify-content: space-between;
 }
 
+.logotype {
+  font-size: 24px;
+  font-weight: 800;
+}
+
 .header-logo {
   color: black;
-  font-size: 16px;
   margin-left: 110px;
   margin-top: 20px;
+  font-weight: 800;
 }
 
 .header-ul {
@@ -22,8 +27,9 @@
   color: #525560;
   font-size: 12px;
   display: inline-block;
-  margin-top: 24p;
+  margin-top: 24px;
   margin-left: 40px;
+  cursor: pointer;
 }
 
 .header-li-donate {
@@ -34,4 +40,5 @@
   margin-top: 12px;
   margin-left: 40px;
   border-radius: 4px;
+  cursor: pointer;
 }
