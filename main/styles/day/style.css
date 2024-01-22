@@ -1,2 +1,10 @@
 @import url(./header.css);
-@import url(./bg.css);
+@import url(./home/home-bg.css);
+@import url(./home/home-block-1.css);
+@import url(./home/home-block-2.css);
+
+.container {
+  margin: 0 auto;
+  max-width: 1500px;
+  padding: 0 15px;
+}

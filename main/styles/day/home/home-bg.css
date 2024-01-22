@@ -28,6 +28,7 @@
   color: #1D2130;
   display: inline-block;
   border-radius: 4px;
+  border: none;
   font-size: 16px;
   cursor: pointer;
 }
@@ -48,8 +49,9 @@
 }
 
 .bg-box-left {
-  margin-left: 110px;
   padding-top: 130px;
+  position: relative;
+  box-sizing: border-box;
 }
 
 .bottom-bg {
@@ -60,7 +62,8 @@
 }
 
 .div-bg-middle {
-  width: 1340px;
+  width: 100%;
+  max-width: 1160px;
   height: 1px;
   background: #E5E5E5;
   backdrop-filter: blur(15px);

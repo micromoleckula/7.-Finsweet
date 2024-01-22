@@ -1,6 +1,9 @@
 .header {
   height: 67px;
   background-color: white;
+}
+
+.header-container {
   display: flex;
   justify-content: space-between;
 }
@@ -8,18 +11,17 @@
 .logotype {
   font-size: 24px;
   font-weight: 800;
+  width: 100px;
 }
 
 .header-logo {
   color: black;
-  margin-left: 110px;
   margin-top: 20px;
   font-weight: 800;
 }
 
 .header-ul {
   display: flex;
-  margin-right: 110px;
   display: inline-block;
 }
 
