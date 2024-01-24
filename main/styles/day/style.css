@@ -2,6 +2,8 @@
 @import url(./home/home-bg.css);
 @import url(./home/home-block-1.css);
 @import url(./home/home-block-2.css);
+@import url(./home/home-block-3.css);
+@import url(./home/home-block-4.css);
 
 .container {
   margin: 0 auto;
