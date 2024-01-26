@@ -114,3 +114,9 @@
   font-weight: 500;
   line-height: 160%;
 }
+
+.block-4-full {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
