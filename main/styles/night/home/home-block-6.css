@@ -1,0 +1,36 @@
+.block-6-h3 {
+  color: var(--Primary-text, #1D2130);
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 140%;
+  margin-bottom: 50px;
+}
+
+.block-6-images {
+  display: flex;
+  justify-content: space-between;
+}
+
+.block-6-image {
+  width: 290px;
+}
+
+.block-6-image h3{
+  color: var(--Black, #1C1D28);
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 150%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.block-6-image p{
+  color: var(--Secondary-text, #525560);
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 160%;
+  margin-bottom: 100px;
+}
