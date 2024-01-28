@@ -12,12 +12,12 @@
 .ab-line {
   width: 75px;
   height: 2px;
-  background: black;
+  background: white;
   margin-right: 25px;
 }
 
 .ab-line-p {
-  color: var(--Primary-text, #1D2130);
+  color: var(--Primary-text, white);
   font-size: 16px;
   font-style: normal;
   font-weight: 700;
@@ -36,8 +36,7 @@
 .h2-block-1 {
   margin-bottom: 30px;
   width: 607px;
-  color: var(--Primary-text, #1D2130);
-  font-family: Roboto;
+  color: var(--Primary-text, white);
   font-size: 48px;
   font-style: normal;
   font-weight: 700;
@@ -47,7 +46,7 @@
 .p-block-1 {
   margin-bottom: 30px;
   width: 608px;
-  color: var(--Secondary-text, #525560);
+  color: var(--Secondary-text, rgb(207, 207, 207));
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -57,7 +56,7 @@
 .p2-block-1 {
   margin-bottom: 50px;
   width: 608px;
-  color: var(--Secondary-text, #525560);
+  color: var(--Secondary-text, rgb(207, 207, 207));
   font-size: 16px;
   font-style: normal;
   font-weight: 400;

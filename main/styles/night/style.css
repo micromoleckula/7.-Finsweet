@@ -14,3 +14,7 @@
   max-width: 1500px;
   padding: 0 15px;
 }
+
+body {
+  background-color: rgb(39, 39, 39);
+}
