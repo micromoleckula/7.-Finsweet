@@ -4,4 +4,4 @@ Finsweet
 https://www.figma.com/file/kCkyiL16H2gaGJkef1teV6/Client-First-Template-7-(Community)?type=design&node-id=47-116&mode=design&t=hryIKUe2bYRWAuAv-0
 
 Online)
-finsweet-dmitrypro.netlify.app
+[finsweet-dmitrypro.netlify.app](https://finsweet-dmitrypro.netlify.app/)https://finsweet-dmitrypro.netlify.app/
