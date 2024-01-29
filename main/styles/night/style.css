@@ -1,5 +1,6 @@
 @import url(./header.css);
 @import url(./footer.css);
+/* home */
 @import url(./home/home-bg.css);
 @import url(./home/home-block-1.css);
 @import url(./home/home-block-2.css);
@@ -8,13 +9,18 @@
 @import url(./home/home-block-5.css);
 @import url(./home/home-block-6.css);
 @import url(./home/home-block-7.css);
+/* home */
+/* know */
+@import url(./know-about-us/know-block-1.css);
+@import url(./know-about-us/know-block-2.css);
+@import url(./know-about-us/know-block-3.css);
+@import url(./know-about-us/know-block-4.css);
+@import url(./know-about-us/know-block-5.css);
+@import url(./know-about-us/know-block-6.css);
+/* know */
 
 .container {
   margin: 0 auto;
-  max-width: 1500px;
+  max-width: 1300px;
   padding: 0 15px;
-}
-
-body {
-  background-color: rgb(39, 39, 39);
 }

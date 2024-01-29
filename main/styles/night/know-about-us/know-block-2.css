@@ -1,0 +1,25 @@
+.block-2-know-img {
+  background-image: url(/main/img/png/bg-know.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  position: relative;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  border-radius: 12px;
+}
+
+.block-2-know-svg {
+  display: flex;
+  justify-content: center;
+  padding: 200px 0;
+}
+
+.container-block-2-know {
+  margin: 0 auto;
+  max-width: 1500px;
+  padding: 0 15px;
+}
