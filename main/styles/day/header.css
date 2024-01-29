@@ -22,7 +22,6 @@
 
 .header-ul {
   display: flex;
-  display: inline-block;
 }
 
 .header-li {
@@ -53,4 +52,44 @@
 
 .header-li-donate:hover {
   background: #474747;
+}
+
+.switch {
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.checkbox {
+  position: relative;
+  width: 54px;
+  height: 30px;
+  appearance: none;
+  background: #f2f2f2;
+  border-radius: 20px;
+  transition: .5s;
+  box-shadow: inset 0 0 5px rgba(0, 0, 0,.2);
+  cursor: pointer;
+}
+
+.checkbox:checked {
+  background: #4f4f4f;
+}
+
+.checkbox::before {
+  content: '';
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  top: 5px;
+  left: 5px;
+  background: #fff;
+  box-shadow: 0 0 5px rgba(0, 0, 0,.2);
+  transition: .5s;
+  transform: scale(1.2);
+}
+
+.checkbox:checked[type="checkbox"]::before {
+  left: 29px;
+  background: rgb(24, 23, 23);
 }

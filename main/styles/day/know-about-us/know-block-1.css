@@ -1,0 +1,40 @@
+.block-1-know-top {
+  margin-top: 100px;
+  display: flex;
+  align-items: center;
+}
+
+.block-1-know-text-box {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30px;
+  align-items: baseline;
+}
+
+.block-1-know-text-box h2{
+  width: 624px;
+  color: var(--Primary-text, #1D2130);
+  font-size: 56px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 120%;
+}
+
+.block-1-know-text-box-right h3 {
+  width: 496px;
+  color: var(--Primary-text, #1D2130);
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 150%;
+}
+
+.block-1-know-text-box-right p{
+  width: 496px;
+  color: var(--Primary-text, #1D2130);
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 160%;
+  margin-top: 15px;
+}
