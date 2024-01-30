@@ -1,5 +1,5 @@
 .block-6-h3 {
-  color: var(--Primary-text, #1D2130);
+  color: var(--Primary-text, #ffffff);
   font-size: 40px;
   font-style: normal;
   font-weight: 500;
@@ -16,8 +16,12 @@
   width: 290px;
 }
 
+.block-6-image img{
+  border-radius: 10px;
+}
+
 .block-6-image h3{
-  color: var(--Black, #1C1D28);
+  color: var(--Black, #ffffff);
   font-size: 20px;
   font-style: normal;
   font-weight: 500;
@@ -27,7 +31,7 @@
 }
 
 .block-6-image p{
-  color: var(--Secondary-text, #525560);
+  color: #b3b3b3;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;

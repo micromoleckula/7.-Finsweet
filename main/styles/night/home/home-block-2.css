@@ -7,7 +7,7 @@
 .block-2-line {
   width: 75px;
   height: 2px;
-  background: black;
+  background: rgb(255, 255, 255);
   margin-right: 25px;
 }
 
@@ -19,6 +19,7 @@
   line-height: normal;
   letter-spacing: 2px;
   text-transform: uppercase;
+  color: white;
 }
 
 .h2-block-2 {
@@ -29,12 +30,13 @@
   font-style: normal;
   font-weight: 700;
   line-height: 120%;
+  color: white;
 }
 
 .p-block-2 {
   margin-bottom: 30px;
   width: 608px;
-  color: var(--Secondary-text, #525560);
+  color: var(--Secondary-text, #b3b3b3);
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -65,7 +67,7 @@
   margin-left: 55px;
   margin-bottom: 25px;
   width: 384px;
-  color: var(--Secondary-text, #525560);
+  color: #b3b3b3;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -79,7 +81,7 @@
 }
 
 .img-h3-block-2 h3 {
-  color: var(--Primary-text, #1D2130);
+  color: var(--Primary-text, #ffffff);
   font-size: 24px;
   font-style: normal;
   font-weight: 700;

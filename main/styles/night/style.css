@@ -9,6 +9,7 @@
 @import url(./home/home-block-5.css);
 @import url(./home/home-block-6.css);
 @import url(./home/home-block-7.css);
+@import url(./modal.css);
 /* home */
 /* know */
 @import url(./know-about-us/know-block-1.css);
@@ -23,4 +24,8 @@
   margin: 0 auto;
   max-width: 1300px;
   padding: 0 15px;
+}
+
+body {
+  background: #141414;
 }

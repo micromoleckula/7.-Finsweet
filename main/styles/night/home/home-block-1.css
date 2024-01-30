@@ -46,7 +46,7 @@
 .p-block-1 {
   margin-bottom: 30px;
   width: 608px;
-  color: var(--Secondary-text, rgb(207, 207, 207));
+  color: #b3b3b3;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -56,7 +56,7 @@
 .p2-block-1 {
   margin-bottom: 50px;
   width: 608px;
-  color: var(--Secondary-text, rgb(207, 207, 207));
+  color: #b3b3b3;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -82,11 +82,15 @@
   flex-shrink: 0;
 }
 
+.about-img img{
+  border-radius: 10px;
+}
+
 .about-bottom-p {
   margin-left: 60px;
   margin-top: 65px;
   margin-bottom: 35px;
-  color: var(--Primary-text, #1D2130);
+  color: var(--Primary-text, #ffffff);
   font-size: 16px;
   font-style: normal;
   font-weight: 500;
@@ -101,5 +105,9 @@
 	display: flex;
 	flex-direction: row;
 	justify-content: space-around;
+}
+
+.about-bottom img{
+  filter: brightness(0) saturate(100%) invert(89%) sepia(34%) saturate(0%) hue-rotate(337deg) brightness(109%) contrast(101%);
 }
 

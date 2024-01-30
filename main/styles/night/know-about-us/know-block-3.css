@@ -11,7 +11,7 @@
 
 .block-3-know-text h2 {
   width: 496px;
-  color: var(--Primary-text, #1D2130);
+  color: var(--Primary-text, #ffffff);
   font-size: 28px;
   font-style: normal;
   font-weight: 700;
@@ -19,7 +19,7 @@
 }
 
 .block-3-know-text h3 {
-  color: var(--Primary-text, #1D2130);
+  color: var(--Primary-text, #ffffff);
   font-size: 16px;
   font-style: normal;
   font-weight: 700;
@@ -30,7 +30,7 @@
 
 .block-3-know-text p {
   width: 496px;
-  color: var(--Primary-text, #1D2130);
+  color: var(--Primary-text, #b3b3b3);
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
