@@ -73,15 +73,16 @@
 
 .div-bg-middle {
   width: 100%;
-  max-width: 1160px;
+  max-width: 960px;
   height: 1px;
   background: #E5E5E5;
   backdrop-filter: blur(15px);
+  margin: 0 auto;
 }
 
 .p-bottom-bg-l {
   color: #FFF;
-  text-align: right;
+  text-align: left;
   font-size: 14px;
   font-style: normal;
   font-weight: 500;

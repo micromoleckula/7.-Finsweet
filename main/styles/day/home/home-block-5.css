@@ -42,6 +42,7 @@
   border: none;
   cursor: pointer;
   margin-right: 30px;
+  color: white;
 }
 
 .block-5-btn-right {
@@ -55,6 +56,7 @@
   backdrop-filter: blur(40px);
   border: none;
   cursor: pointer;
+  
 }
 
 .block-5-bottom {

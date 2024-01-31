@@ -1,11 +1,16 @@
 .header {
+  position: fixed;
   height: 67px;
-  background-color: white;
+  background: rgba(0, 0, 0, 0.5);
+  z-index: 1;
+  width: 100%;
 }
 
 .header-container {
   display: flex;
   justify-content: space-between;
+  align-items: center;
+  padding: 0 20px;
 }
 
 .logotype {
@@ -15,7 +20,7 @@
 }
 
 .header-logo {
-  color: black;
+  color: white;
   margin-top: 20px;
   font-weight: 800;
 }
@@ -25,7 +30,7 @@
 }
 
 .header-li {
-  color: #525560;
+  color: white;
   font-size: 16px;
   display: inline-block;
   margin-top: 24px;
@@ -35,28 +40,24 @@
 }
 
 .header-li:hover {
-  color: #000000;
+  color: rgb(155, 155, 155);
 }
 
 .header-li-donate {
   padding: 12px 32px;
-  background: #1D2130;
-  color: white;
+  background: white;
+  color: black;
   display: inline-block;
   margin-top: 12px;
   margin-left: 40px;
   border-radius: 4px;
+  border: none;
   cursor: pointer;
   transition: all 0.2s;
 }
 
 .header-li-donate:hover {
-  background: #474747;
-}
-
-.switch {
-  margin-top: 20px;
-  margin-left: 20px;
+  background: #6e6e6e;
 }
 
 .checkbox {
@@ -70,6 +71,12 @@
   box-shadow: inset 0 0 5px rgba(0, 0, 0,.2);
   cursor: pointer;
 }
+
+.switch {
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
 
 .checkbox:checked {
   background: #4f4f4f;

@@ -1,0 +1,142 @@
+.block-1-tn-left h1{
+  width: 496px;
+  color: var(--Primary-text, #1D2130);
+  font-size: 56px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 120%;
+  margin-bottom: 15px;
+  margin-top: 30px;
+}
+
+.block-1-tn-left p{
+  width: 496px;
+  color: var(--Secondary-text, #525560);
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 160%;
+  margin-bottom: 30px;
+}
+
+.block-1-tn-left button {
+  display: inline-flex;
+  padding: 16px 32px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  border-radius: 4px;
+  background: var(--Green-primary, #70C174);
+  backdrop-filter: blur(40px);
+  border: none;
+  color: white;
+}
+
+.block-1-tn-left {
+  margin-left: 100px;
+}
+
+.about-top-tn {
+  display: flex;
+  align-items: center;
+  padding-top: 100px;
+}
+
+.ab-line-tn {
+  width: 75px;
+  height: 2px;
+  background: rgb(0, 0, 0);
+  margin-right: 25px;
+}
+
+.ab-line-p-tn {
+  color: var(--Primary-text, rgb(0, 0, 0));
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+.container-tn {
+  background: var(--Green-tertiary, #EFF7F2);
+  height: 768px;
+  flex-shrink: 0;
+}
+
+.block-1-tn-box {
+  width: 592px;
+  height: 576px;
+  flex-shrink: 0;
+  border-radius: 12px;
+  background: #FFF;
+}
+
+.block-1-tn-card {
+  display: flex;
+  margin-left: 25px;
+  margin-right: 60px;
+  margin-top: 25px;
+}
+
+.block-1-tn-card img {
+  width: 192px;
+  height: 160px;
+  flex-shrink: 0;
+  margin-right: 25px;
+}
+
+.block-1-tn-card h2{
+  width: 296px;
+  color: var(--Primary-text, #1D2130);
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 150%;
+  margin-top: 25px;
+  margin-bottom: 10px;
+}
+
+.block-1-tn-card p {
+  width: 296px;
+  color: var(--Secondary-text, #525560);
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 160%;
+}
+
+.block-1-tn-boss {
+  display: flex;
+  justify-content: space-between;
+}
+
+.block-2-tn-top p {
+  width: 450px;
+  color: var(--Secondary-text, #525560);
+  text-align: center;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 160%;
+}
+
+.block-2-tn-top h2 {
+  width: 700px;
+  color: var(--Primary-text, #1D2130);
+  text-align: center;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 120%;
+  margin-bottom: 15px;
+}
+
+.block-2-tn-top {
+  margin-top: 100px;
+  margin-bottom: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

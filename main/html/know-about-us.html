@@ -23,12 +23,12 @@
         </div>
         <nav class="header-nav">
           <ul class="header-ul">
-            <li class="header-li">Home</li>
-            <li class="header-li">About us</li>
-            <li class="header-li">What We Do</li>
-            <li class="header-li">Media</li>
-            <li class="header-li">Contact</li>
-            <button class="header-li-donate">Donate</button>
+            <a href="/index.html"><li class="header-li">Home</li></a>
+            <a href="./know-about-us.html"><li class="header-li">About us</li></a>
+            <a href="./what-we-do.html"><li class="header-li">What We Do</li></a>
+            <a href="./top-news.html"><li class="header-li">Media</li></a>
+            <a href="./contact-us.html"><li class="header-li">Contact</li></a>
+            <a href="./donate.html"><button class="header-li-donate">Donate</button></a>
             <div class="switch">
               <input type="checkbox" class="checkbox" id="btn-dark">
             </div>
@@ -313,6 +313,43 @@
     </div>
   </section>
 
+  <!-- window -->
+
+  <div class="modal">
+    <div class="join-volunteer-window">
+      <div class="window-join">
+        <div class="window-volun">
+          <h2>Join as a volunteer</h2>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+            Suspen varius enim in eros elementum tristique. </p>
+          <div class="modal-input-top">
+            <div>
+              <label class="text-field__label" for="Name">First Name
+                <input type="text" name="" id="" class="input-modal-1">
+              </label>
+            </div>
+            <div>
+              <label class="text-field__label" for="Lastname">Last Name
+                <input type="text" name="" id="" class="input-modal-2">
+              </label>
+            </div>
+          </div>
+          <div class="modal-middle"> 
+            <label class="text-field__label" for="Email">Email
+              <input type="email" name="" id="" class="input-modal-3">
+            </label>
+          </div> 
+          <label class="text-field__label" for="Message">Message
+            <textarea name="" id="" class="input-modal-4"></textarea>
+          </label>
+          <button class="modal-button">Send message</button>
+          <p class="modal-btn-thxs">Thank you, we appreciate your feedback.</p>
+        </div>
+        <img src="/main/img/svg/Close button.svg" alt="" class="close-button-window">
+      </div>
+    </div>
+  </div>
+
   <!-- block 7 -->
 
   <section class="block-6">
@@ -451,5 +488,6 @@
 
 </main>
 <script src="/main/js/day-night-script.js"></script>
+<script src="/main/js/window-volunteer.js"></script>
 </body>
 </html>

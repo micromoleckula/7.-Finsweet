@@ -19,6 +19,14 @@
 @import url(./know-about-us/know-block-5.css);
 @import url(./know-about-us/know-block-6.css);
 /* know */
+/* wwd */
+@import url(./what-we-do/wwd-block-1.css);
+@import url(./what-we-do/wwd-block-2.css);
+@import url(./what-we-do/wwd-block-3.css);
+/* wwd */
+/* media (tn) */
+@import url(./top-news/tn-block-1.css);
+/* media (tn) */
 
 .container {
   margin: 0 auto;
