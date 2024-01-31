@@ -1,9 +1,13 @@
 .header {
   position: fixed;
   height: 67px;
-  background: rgba(0, 0, 0, 0.5);
   z-index: 1;
   width: 100%;
+  transition: .2s linear;
+}
+
+.header_active {
+  background: rgba(0, 0, 0, 0.5);
 }
 
 .header-container {
