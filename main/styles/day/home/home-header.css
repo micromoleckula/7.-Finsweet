@@ -1,4 +1,4 @@
-.header {
+.header-home {
   position: fixed;
   height: 67px;
   z-index: 1;
@@ -10,14 +10,14 @@
   background: rgba(0, 0, 0, 0.5);
 }
 
-.header-container {
+.header-container-home {
   display: flex;
   justify-content: space-between;
   align-items: center;
   padding: 0 20px;
 }
 
-.logotype {
+.logotype-home {
   font-size: 24px;
   font-weight: 800;
   width: 100px;
@@ -25,11 +25,11 @@
   transition: 0.2s;
 }
 
-.logotype:hover {
+.logotype-home:hover {
   color: #707070;
 }
 
-.header-logo {
+.header-logo-home {
   margin-top: 15px;
   font-weight: 800;
 }
@@ -39,31 +39,27 @@
   
 }
 
-.header-a {
+.header-a-home {
   color: #fff;
 	text-decoration: none;
   transition: 0.2s;
 }
 
-.header-a:hover {
-  color: #707070;
+.header-a-home:hover {
+	color: #707070;
 }
 
-.header-li {
+.header-li-home {
   font-size: 16px;
   display: inline-block;
   margin-top: 24px;
   margin-left: 40px;
   cursor: pointer;
-  transition: all 0.2s;
 }
 
-.header-li:hover {
-  color: rgb(150, 150, 150);
-}
-
-.header-li-donate {
+.header-li-donate-home {
   padding: 12px 32px;
+
   color: black;
   display: inline-block;
   margin-top: 12px;
@@ -74,7 +70,7 @@
   transition: all 0.2s;
 }
 
-.header-li-donate:hover {
+.header-li-donate-home:hover {
   background: #6e6e6e;
 }
 

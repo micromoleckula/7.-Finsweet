@@ -27,6 +27,11 @@
 /* media (tn) */
 @import url(./top-news/tn-block-1.css);
 /* media (tn) */
+/* contact us */
+@import url(./contact-us/con-us-block-1.css);
+@import url(./contact-us/con-us-block-2.css);
+@import url(./contact-us/con-us-block-3.css);
+/* contact us */
 
 .container {
   margin: 0 auto;

@@ -21,10 +21,6 @@
   font-size: 24px;
   font-weight: 800;
   width: 100px;
-
-}
-
-.logotype:hover {
 }
 
 .header-logo {
@@ -34,7 +30,6 @@
 
 .header-ul {
   display: flex;
-  
 }
 
 .header-a {
@@ -42,7 +37,7 @@
 }
 
 .header-a:hover {
-	color: #ffffff;
+	color: rgb(94, 94, 94);
 }
 
 .header-li {
@@ -55,12 +50,11 @@
 }
 
 .header-li:hover {
-  color: rgb(155, 155, 155);
+  color: rgb(48, 48, 48);
 }
 
 .header-li-donate {
   padding: 12px 32px;
-
   color: black;
   display: inline-block;
   margin-top: 12px;
@@ -91,7 +85,6 @@
   margin-top: 20px;
   margin-left: 20px;
 }
-
 
 .checkbox:checked {
   background: #4f4f4f;

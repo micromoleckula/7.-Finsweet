@@ -1,3 +1,8 @@
+.block-2-wwd {
+  background: #EFF7F2;
+  padding: 100px 0;
+}
+
 .block-2-wwd-h2 {
   color: var(--Primary-text, #1D2130);
   font-size: 48px;

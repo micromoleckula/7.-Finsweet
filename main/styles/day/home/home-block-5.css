@@ -43,6 +43,11 @@
   cursor: pointer;
   margin-right: 30px;
   color: white;
+  transition: .2s;
+}
+
+.block-5-btn-left:hover {
+  background: var(--Green-primary, #446445);
 }
 
 .block-5-btn-right {
@@ -56,7 +61,11 @@
   backdrop-filter: blur(40px);
   border: none;
   cursor: pointer;
-  
+  transition: .2s;
+}
+
+.block-5-btn-right:hover {
+  background: #6e6e6e;
 }
 
 .block-5-bottom {
