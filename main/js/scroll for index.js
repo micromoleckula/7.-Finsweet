@@ -13,10 +13,10 @@
       });
     } else {
       header_active.classList.remove('header_active');
-      header_colorLogo.style.color = 'black';
+      header_colorLogo.style.color = 'white';
       
       header_color.forEach(element => {
-        element.style.color = 'black';
+        element.style.color = 'white';
       });
     }
   };

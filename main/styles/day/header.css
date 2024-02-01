@@ -21,20 +21,31 @@
   font-size: 24px;
   font-weight: 800;
   width: 100px;
+
+}
+
+.logotype:hover {
 }
 
 .header-logo {
-  color: white;
-  margin-top: 20px;
+  margin-top: 15px;
   font-weight: 800;
 }
 
 .header-ul {
   display: flex;
+  
+}
+
+.header-a {
+	text-decoration: none;
+}
+
+.header-a:hover {
+	color: #ffffff;
 }
 
 .header-li {
-  color: white;
   font-size: 16px;
   display: inline-block;
   margin-top: 24px;
@@ -49,7 +60,7 @@
 
 .header-li-donate {
   padding: 12px 32px;
-  background: white;
+
   color: black;
   display: inline-block;
   margin-top: 12px;
