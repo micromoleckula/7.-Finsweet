@@ -59,8 +59,6 @@
 
 .header-li-donate-home {
   padding: 12px 32px;
-
-  color: black;
   display: inline-block;
   margin-top: 12px;
   margin-left: 40px;
@@ -68,10 +66,11 @@
   border: none;
   cursor: pointer;
   transition: all 0.2s;
+  background: #70C174;
 }
 
 .header-li-donate-home:hover {
-  background: #6e6e6e;
+  background: var(--Green-primary, #446445);
 }
 
 .checkbox {

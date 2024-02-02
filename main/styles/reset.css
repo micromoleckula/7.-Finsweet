@@ -54,6 +54,10 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 nav ul {
 	 list-style:none;
 }
+
+#map {
+  height: 100%;
+}
 /* --------------- /reset.css --------------- */
 
 /* --------------- базовые настройки ---------*/
