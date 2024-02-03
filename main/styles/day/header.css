@@ -36,10 +36,6 @@
 	text-decoration: none;
 }
 
-.header-a:hover {
-	color: rgb(94, 94, 94);
-}
-
 .header-li {
   font-size: 16px;
   display: inline-block;
@@ -55,18 +51,18 @@
 
 .header-li-donate {
   padding: 12px 32px;
-  color: black;
+  color: rgb(255, 255, 255);
   display: inline-block;
   margin-top: 12px;
   margin-left: 40px;
   border-radius: 4px;
   border: none;
   cursor: pointer;
-  transition: all 0.2s;
+  background: #70C174;
 }
 
 .header-li-donate:hover {
-  background: #6e6e6e;
+  background: var(--Green-primary, #446445);
 }
 
 .checkbox {

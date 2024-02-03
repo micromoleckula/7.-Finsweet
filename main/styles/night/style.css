@@ -37,6 +37,18 @@
 @import url(./donate/donate-block-2.css);
 @import url(./donate/donate-block-3.css);
 /* donate */
+/* project */
+@import url(./our-project/prj-block-1.css);
+@import url(./our-project/prj-block-2.css);
+/* project */
+/* climate */
+@import url(./climate/climate-block-1.css);
+/* climate */
+/* plastic */
+@import url(./plastic/plastic-block-1.css);
+@import url(./plastic/plastic-block-2.css);
+@import url(./plastic/plastic-block-3.css);
+/* plastic */
 
 .container {
   margin: 0 auto;

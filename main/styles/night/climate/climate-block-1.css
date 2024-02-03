@@ -1,0 +1,132 @@
+.block-1-climate {
+  padding-top: 160px;
+}
+
+.block-1-climate-img {
+  margin: 0 auto;
+  border-radius: 12px;
+  padding-bottom: 50px;
+}
+
+.block-1-climate-top-p {
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 26px;
+  letter-spacing: 0px;
+  text-align: center;
+  color: #ffffff;
+  max-width: 1024px;
+  margin: 0 auto;
+  padding-bottom: 30px;
+}
+
+.block-1-climate-top-h1 {
+  font-size: 56px;
+  font-weight: 700;
+  line-height: 67px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #ffffff;
+  max-width: 1024px;
+  margin: 0 auto;
+  padding-bottom: 15px;
+}
+
+.block-1-climate-top-p-bottom {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  letter-spacing: 0px;
+  text-align: center;
+  color: #b3b3b3;
+  max-width: 1024px;
+  margin: 0 auto;
+  padding-bottom: 30px;
+}
+
+.block-1-climate-bottom-h1 {
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 58px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: #ffffff;
+  margin-bottom: 30px;
+}
+
+.block-1-climate-bottom-p1 {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: #b3b3b3;
+  margin-bottom: 15px;
+}
+
+.block-1-climate-bottom-p2 {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: #b3b3b3;
+  margin-bottom: 15px;
+}
+
+.block-1-climate-bottom-p3 {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: #b3b3b3;
+  margin-bottom: 15px;
+}
+
+.block-1-climate-bottom-p4 {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: #b3b3b3;
+  margin-bottom: 15px;
+}
+
+.block-1-climate-bottom-p5 {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: #b3b3b3;
+  margin-bottom: 30px;
+}
+
+.block-1-climate-bottom-ul li {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: #b3b3b3;
+  margin-left: 30px;
+}
+
+.block-1-climate-bottom-h3 {
+  font-size: 28px;
+  font-weight: 700;
+  line-height: 42px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: #ffffff;
+  margin-top: 30px;
+  margin-bottom: 15px;
+}
+
+.block-1-climate-bottom {
+  margin: 0 auto;
+  max-width: 1024px;
+  padding: 0 15px;
+}

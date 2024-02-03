@@ -10,7 +10,7 @@ html, body, div, span, h1, h2, h3, h4, h5, h6, p, em, img, strong, sub, sup, b, 
 	font-family: 'Roboto';                /* размер шрифта всем одинаковый */
 }
 a {
-	color: #313131;                            	     /* ссылка не в общем списке чтобы не сбрасывать outline по умолчанию */
+	color: #adadad;                        	     /* ссылка не в общем списке чтобы не сбрасывать outline по умолчанию */
 	margin:0;
 	padding:0;
 	font-size:100%;
@@ -19,6 +19,7 @@ a {
 	outline:none;
 	text-decoration: none;
 }
+
 table {						/* устраняем отступы между ячейками таблицы */
 	border-collapse: collapse; 
 	border-spacing: 0;
@@ -72,7 +73,7 @@ body {
 }
 
 a:hover {
-	color: #b6b6b6;
+	color: #e0e0e0;
 	text-decoration:none;
 }
 a:focus, a:active {
