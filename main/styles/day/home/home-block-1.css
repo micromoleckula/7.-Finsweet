@@ -83,8 +83,8 @@
 .about-img {
   margin-top: 100px;
   margin-left: 100px;
-  width: 480px;
-  height: 578px;
+  max-width: 480px;
+  max-height: 578px;
   flex-shrink: 0;
 }
 
