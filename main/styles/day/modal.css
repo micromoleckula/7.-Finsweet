@@ -14,7 +14,7 @@
 }
 
 .window-volun h2 {
-  color: #1D2130;
+  color: #ffffff;
   font-size: 40px;
   font-style: normal;
   font-weight: 700;
@@ -23,7 +23,7 @@
 }
 
 .window-volun p {
-  color: var(--Secondary-text, #525560);
+  color: var(--Secondary-text, #b3b3b3);
   font-size: 14px;
   font-style: normal;
   font-weight: 400;
@@ -33,7 +33,7 @@
 
 .join-volunteer-window {
   position: relative;
-  background: white;
+  background: #2e2e2e;
   width: 640px;
   height: 684px;
   margin: 130px auto;
@@ -49,18 +49,20 @@
   width: 100%;
   height: 100%;
   background-color: rgba(0,0,0,0.5);
+  z-index: 2;
 }
 
 .input-modal-1 {
+  color: #ffffff;
   border-top: none;
   border-left: none;
   border-right: none;
   width: 256px;
   background: none;
-  margin-right: 35px;
 }
 
 .input-modal-2 {
+  color: #ffffff;
   border-top: none;
   border-left: none;
   border-right: none;
@@ -69,6 +71,7 @@
 }
 
 .input-modal-3 {
+  color: #ffffff;
   border-top: none;
   border-left: none;
   border-right: none;
@@ -77,6 +80,7 @@
 }
 
 .input-modal-4 {
+  color: #ffffff;
   width: 527px;
   height: 156px;
   flex-shrink: 0;
@@ -95,7 +99,7 @@
 }
 
 .text-field__label {
-  color: var(--Primary-text, #1D2130);
+  color: var(--Primary-text, #ffffff);
   opacity: 0.6;
   font-size: 12px;
   font-style: normal;
@@ -130,7 +134,7 @@
 
 .modal-btn-thxs {
   display: none;
-  color: var(--Secondary-text, #525560);
+  color: var(--Secondary-text, #e4e4e4);
   font-size: 10px;
   font-style: normal;
   font-weight: 400;
@@ -200,7 +204,7 @@
     border-top: none;
     border-left: none;
     border-right: none;
-    width: 256px;
+    width: 273px;
     background: none;
     margin-right: 0px;
     margin-bottom: 30px;
@@ -210,7 +214,7 @@
     border-top: none;
     border-left: none;
     border-right: none;
-    width: 256px;
+    width: 273px;
     background: none;
   }
   
@@ -218,7 +222,7 @@
     border-top: none;
     border-left: none;
     border-right: none;
-    width: 256px;
+    width: 273px;
     background: none;
   }
   
