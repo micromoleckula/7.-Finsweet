@@ -83,6 +83,7 @@
   margin-bottom: 48px;
   cursor: pointer;
   transition: .2s;
+  color: black;
 }
 
 .block-3-btn:hover {

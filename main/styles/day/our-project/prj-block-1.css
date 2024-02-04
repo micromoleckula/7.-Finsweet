@@ -5,7 +5,6 @@
 
 .block-1-prj-line {
   display: flex;
-  
   align-items: center;
   margin-bottom: 30px;
 }
@@ -15,12 +14,10 @@
   height: 2px;
   flex-shrink: 0;
   stroke-width: 2px;
-  background: #1D2130;
   margin-right: 25px;
 }
 
 .block-1-prj-line p{
-  color: var(--Primary-text, #1D2130);
   font-size: 16px;
   font-style: normal;
   font-weight: 700;
@@ -31,7 +28,6 @@
 
 .block-1-prj-top h1 {
   width: 832px;
-  color: var(--Primary-text, #1D2130);
   font-size: 56px;
   font-style: normal;
   font-weight: 700;
@@ -41,7 +37,6 @@
 
 .block-1-prj-top p{
   width: 832px;
-  color: var(--Secondary-text, #525560);
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -60,7 +55,6 @@
 }
 
 .block-1-prj-bottom h1{
-  color: var(--Primary-text, #1D2130);
   font-size: 48px;
   font-style: normal;
   font-weight: 700;
@@ -70,7 +64,6 @@
 
 .block-1-prj-bottom p{
   width: 832px;
-  color: var(--Secondary-text, #525560);
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -79,12 +72,11 @@
 }
 
 .block-1-prj-bottom-ul{
-  color: var(--Primary-text, #1D2130);
-  font-family: Roboto;
   font-size: 16px;
   font-style: normal;
   font-weight: 700;
   line-height: 160%;
   margin-left: 20px;
   margin-bottom: 15px;
+  list-style-type: disc;
 }

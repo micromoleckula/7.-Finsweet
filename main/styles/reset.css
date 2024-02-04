@@ -70,7 +70,6 @@ html {
 	min-height:100%; /* всегда показываем вертикальную полосу прокрутки  */
 }
 body {
-	color: #000;
 	text-align: left;
 	font-size: 1em; /* используем безопасные шрифтовые CSS стеки */
 	min-height:100%;

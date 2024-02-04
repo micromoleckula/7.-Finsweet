@@ -4,7 +4,6 @@
 }
 
 .block-2-wwd-h2 {
-  color: var(--Primary-text, #1D2130);
   font-size: 48px;
   font-style: normal;
   font-weight: 700;
@@ -13,7 +12,6 @@
 }
 
 .block-2-wwd-card h3 {
-  color: var(--Primary-text, #1D2130);
   font-size: 24px;
   font-style: normal;
   font-weight: 700;
@@ -24,7 +22,6 @@
 
 .block-2-wwd-card p {
   width: 332px;
-  color: var(--Secondary-text, #525560);
   font-size: 14px;
   font-style: normal;
   font-weight: 400;

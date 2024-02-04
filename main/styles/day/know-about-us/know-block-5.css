@@ -21,36 +21,37 @@
   letter-spacing: 2px;
   text-transform: uppercase;
   margin-top: 60px;
+  color: #FFF;
 }
 
 .block-5-know-box-left h2 {
   width: 427px;
-  color: #FFF;
   font-size: 48px;
   font-style: normal;
   font-weight: 700;
   line-height: 120%;
   margin-top: 15px;
   margin-bottom: 15px;
+  color: #FFF;
 }
 
 .block-5-know-box-left h3 {
-  color: #FFF;
   font-size: 24px;
   font-style: normal;
   font-weight: 500;
   line-height: 160%;
+  color: #FFF;
 }
 
 .block-5-know-box-p-top  {
   width: 488px;
-  color: #FFF;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
   line-height: 160%;
   opacity: 0.6;
   margin-bottom: 30px;
+  color: #ffffff;
 }
 
 .block-5-know-box-left-bottom {
@@ -63,12 +64,12 @@
 }
 
 .block-5-know-p {
-  color: #FFF;
   font-size: 12px;
   font-style: normal;
   font-weight: 500;
   line-height: 160%;
   opacity: 0.6;
+  color: #FFF;
 }
 
 .block-5-know-box-left img {

@@ -13,7 +13,6 @@
 
 .block-1-know-text-box h2{
   width: 624px;
-  color: var(--Primary-text, #1D2130);
   font-size: 56px;
   font-style: normal;
   font-weight: 700;
@@ -22,7 +21,6 @@
 
 .block-1-know-text-box-right h3 {
   width: 496px;
-  color: var(--Primary-text, #1D2130);
   font-size: 20px;
   font-style: normal;
   font-weight: 700;
@@ -31,7 +29,6 @@
 
 .block-1-know-text-box-right p{
   width: 496px;
-  color: var(--Primary-text, #1D2130);
   font-size: 16px;
   font-style: normal;
   font-weight: 400;

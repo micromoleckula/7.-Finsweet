@@ -17,7 +17,6 @@
 }
 
 .ab-line-p {
-  color: var(--Primary-text, #1D2130);
   font-size: 16px;
   font-style: normal;
   font-weight: 700;
@@ -36,7 +35,6 @@
 .h2-block-1 {
   margin-bottom: 30px;
   width: 607px;
-  color: var(--Primary-text, #1D2130);
   font-family: Roboto;
   font-size: 48px;
   font-style: normal;
@@ -47,7 +45,6 @@
 .p-block-1 {
   margin-bottom: 30px;
   width: 608px;
-  color: var(--Secondary-text, #525560);
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -57,7 +54,6 @@
 .p2-block-1 {
   margin-bottom: 50px;
   width: 608px;
-  color: var(--Secondary-text, #525560);
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -67,13 +63,13 @@
 .btn-block-1 {
   padding: 16px 32px;
   background: #70C174;
-  color: white;
   display: inline-block;
   border-radius: 4px;
   border: none;
   font-size: 16px;
   cursor: pointer;
   transition: .2s;
+  color: white;
 }
 
 .btn-block-1:hover {
@@ -88,11 +84,14 @@
   flex-shrink: 0;
 }
 
+.about-img img {
+  border-radius: 12px;
+}
+
 .about-bottom-p {
   margin-left: 60px;
   margin-top: 65px;
   margin-bottom: 35px;
-  color: var(--Primary-text, #1D2130);
   font-size: 16px;
   font-style: normal;
   font-weight: 500;

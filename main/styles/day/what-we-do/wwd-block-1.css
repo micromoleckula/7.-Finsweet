@@ -12,7 +12,6 @@
 }
 
 .block-1-wwd-line-p {
-  color: var(--Primary-text, #1D2130);
   font-size: 16px;
   font-style: normal;
   font-weight: 700;
@@ -27,7 +26,6 @@
 
 .block-1-wwd-text h1{
   width: 461px;
-  color: var(--Primary-text, #1D2130);
   font-size: 56px;
   font-style: normal;
   font-weight: 700;
@@ -37,7 +35,6 @@
 
 .block-1-wwd-text p {
   width: 594px;
-  color: var(--Secondary-text, #525560);
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
