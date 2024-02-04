@@ -35,3 +35,35 @@
   }
   
 }
+
+@media screen and (max-width: 500px) {
+  .about-middle {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .h2-block-2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 340px;
+    text-align: center;
+  }
+
+  .p-block-2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 340px;
+    text-align: center;
+  }
+
+  .line-list-block-2 {
+    margin-left: 0;
+  }
+
+  .list-item-block-2 p {
+    width: 300px;
+  }
+  
+}
