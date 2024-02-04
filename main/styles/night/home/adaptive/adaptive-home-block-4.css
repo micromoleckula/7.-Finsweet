@@ -2,9 +2,7 @@
   .block-4-full {
     flex-direction: column;
   }
-}
 
-@media screen and (max-width: 750px) {
   .block-4-left h3 {
     width: 300px;
     text-align: center;
@@ -17,7 +15,8 @@
 
   .block-4-left-bottom {
     display: grid;
-    grid: repeat(3, 60px) / auto-flow 230px;
+    grid-template-columns: 1fr;
+    width: 1px;
   }
 
   .block-4-left {
@@ -25,4 +24,224 @@
     flex-direction: column;
     align-items: center;
   }
+
+  .block-4-left-bottom-item1 div{
+    width: 16px;
+    height: 16px;
+    flex-shrink: 0;
+    border-radius: 4px;
+    background: #BEF3C0;
+    margin-right: 5px;
+  }
+  
+  .block-4-left-bottom-item2 div{
+    width: 16px;
+    height: 16px;
+    flex-shrink: 0;
+    border-radius: 4px;
+    background: #AC94F1;
+    margin-right: 5px;
+  }
+  
+  .block-4-left-bottom-item3 div{
+    width: 16px;
+    height: 16px;
+    flex-shrink: 0;
+    border-radius: 4px;
+    background: #FFF0CA;
+    margin-right: 5px;
+  }
+  
+  .block-4-left-bottom-item4 div{
+    width: 16px;
+    height: 16px;
+    flex-shrink: 0;
+    border-radius: 4px;
+    background: #F9CF64;
+    margin-right: 5px;
+  }
+  
+  .block-4-left-bottom-item5 div{
+    width: 16px;
+    height: 16px;
+    flex-shrink: 0;
+    border-radius: 4px;
+    background: #F9CF64;
+    margin-right: 5px;
+  }
+
+  .block-4-left-bottom-item1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 120px;
+    text-align: center;
+  }
+  
+  .block-4-left-bottom-item2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 120px;
+    text-align: center;
+  }
+  
+  .block-4-left-bottom-item3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 120px;
+    text-align: center;
+  }
+  
+  .block-4-left-bottom-item4 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 120px;
+    text-align: center;
+  }
+  
+  .block-4-left-bottom-item5 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 120px;
+    text-align: center;
+  }
+
+  .block-4-p {
+    width: 400px;
+  }
+}
+
+@media screen and (max-width: 750px) {
+
+  .block-4-left h3 {
+    width: 300px;
+    text-align: center;
+  }
+
+  .block-4-left-bottom {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 200px;
+    margin-bottom: 20px;
+  }
+
+  .block-4-p {
+    width: 300px;
+  }
+
+  .block-4-left {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .block-4-left-bottom-item1 div{
+    width: 16px;
+    height: 16px;
+    margin-right: 0;
+  }
+  
+  .block-4-left-bottom-item2 div{
+    width: 16px;
+    height: 16px;
+    margin-right: 0;
+  }
+  
+  .block-4-left-bottom-item3 div{
+    width: 16px;
+    height: 16px;
+    margin-right: 0;
+  }
+  
+  .block-4-left-bottom-item4 div{
+    width: 16px;
+    height: 16px;
+    margin-right: 0;
+  }
+  
+  .block-4-left-bottom-item5 div{
+    width: 16px;
+    height: 16px;
+    margin-right: 0;
+  }
+
+  .block-4-left-bottom-item1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .block-4-left-bottom-item2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .block-4-left-bottom-item3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .block-4-left-bottom-item4 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .block-4-left-bottom-item5 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+
+  .block-4-p {
+    width: 400px;
+  }
+}
+
+@media screen and (max-width: 480px) { 
+
+  .block-4-left-bottom {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 200px;
+    margin-bottom: 20px;
+  }
+
+  .block-4-p {
+    width: 300px;
+  }
+
 }

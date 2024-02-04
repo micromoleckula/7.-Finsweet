@@ -184,7 +184,7 @@
 
   .header-ul-burger {
     display: block;
-    
+    list-style-type: none;
   }
 
   /*  */
@@ -207,6 +207,7 @@
     display: flex;
     margin-top: 10px;
     margin-left: 10px;
+    list-style-type: none;
   }
   
   .header-li-donate-burger {
@@ -218,5 +219,6 @@
     transition: all 0.2s;
     background: #70C174;
     margin-left: 23px;
+    
   }
 }

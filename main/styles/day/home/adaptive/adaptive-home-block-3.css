@@ -68,3 +68,30 @@
   }
 
 }
+
+@media screen and (max-width: 500px) { 
+
+  .block-3-middle-left {
+    margin-left: 0;
+    display: flex;
+    justify-content: center;
+  }
+
+  .container {
+    margin: 0 auto;
+    max-width: 500px;
+    padding: 0 15px;
+  }
+
+  .img1-block-3 {
+    width: 390px;
+  }
+  
+  .img2-block-3 {
+    width: 390px;
+  }
+  
+  .img3-block-3 {
+    width: 390px;
+  }
+}

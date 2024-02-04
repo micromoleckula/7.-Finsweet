@@ -20,6 +20,10 @@ a {
 	text-decoration: none;
 }
 
+ul {
+	list-style-type: none;
+}
+
 table {						/* устраняем отступы между ячейками таблицы */
 	border-collapse: collapse; 
 	border-spacing: 0;
