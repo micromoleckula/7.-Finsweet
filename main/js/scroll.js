@@ -18,6 +18,7 @@
       header_color.forEach(element => {
         element.style.color = 'white';
       })
+
     } else if (dayNight.getAttribute("href") == "/main/styles/day.css") {
       header_active.classList.remove('header_active');
       header_colorLogo.style.color = 'black';
@@ -28,6 +29,7 @@
       header_color.forEach(element => {
         element.style.color = 'black';
       });
+      
     } else {
       header_active.classList.remove('header_active');
       header_colorLogo.style.color = 'white';

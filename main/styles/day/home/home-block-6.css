@@ -17,12 +17,14 @@
 }
 
 .block-6-image h3{
+  width: 300px;
   font-size: 20px;
   font-style: normal;
   font-weight: 500;
   line-height: 150%;
   margin-top: 10px;
   margin-bottom: 10px;
+  text-align: center;
 }
 
 .block-6-image p{
@@ -31,4 +33,6 @@
   font-weight: 400;
   line-height: 160%;
   margin-bottom: 100px;
+  text-align: center;
+  width: 300px;
 }

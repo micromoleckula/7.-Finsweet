@@ -1,0 +1,34 @@
+@media screen and (max-width: 900px) {
+
+  .input-modal-1-con {
+    width: 195px;
+  }
+  
+  .input-modal-2-con {
+    width: 195px;
+  }
+  
+  .input-modal-3-con {
+    width: 195px;
+  }
+  
+  .input-modal-33-con {
+    width: 195px;
+  }
+  
+  .input-modal-4-con {
+    width: 400px;
+    height: 156px;
+  }
+
+  input[type="email" i] {
+    padding-block: 0px;
+    padding-inline: 0px;
+  }
+
+  .block-2-contact-box {
+    display: flex;
+    align-items: center;
+  }
+
+}

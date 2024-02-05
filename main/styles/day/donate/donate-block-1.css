@@ -2,7 +2,6 @@
   width: 78px;
   height: 2px;
   margin-right: 25px;
-  background: #000;
 }
 
 .block-1-donate-line-box p {
@@ -21,7 +20,6 @@
 }
 
 .block-1-donate {
-  background: #EFF7F2;
   padding-top: 160px;
   padding-bottom: 100px;
 }
@@ -47,7 +45,6 @@
   line-height: 26px;
   letter-spacing: 0px;
   text-align: left;
-  color: #525560;
   margin-bottom: 30px;
 }
 

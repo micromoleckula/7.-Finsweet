@@ -1,0 +1,19 @@
+@media screen and (max-width: 600px) {
+
+  .block-4-know-bottom {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .block-4-know-union {
+    display: flex;
+    width: 40px;
+    margin-right: 80px;
+  }
+  .block-4-img-1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+}

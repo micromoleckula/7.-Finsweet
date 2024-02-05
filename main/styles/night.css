@@ -6,15 +6,11 @@ p {
   color: #b3b3b3;
 }
 
-a {
-  color: #ffffff;
-}
-
 body {
   background: #141414;
 }
 
-.block-1-contact-card-1-p-a, .block-2-prj-card h1, .block-1-prj-bottom-ul {
+.block-1-contact-card-1-p-a, .block-2-prj-card h1, .block-1-prj-bottom-ul, .block-2-donate-b1, .block-2-donate-b2, .block-2-donate-b3 {
   color: #ffffff;
 }
 
@@ -22,7 +18,7 @@ body {
   background: rgb(255, 255, 255);
 }
 
-.ab-line-p, .block-2-line-p, .ab-line-p-tn, .block-1-prj-line p, .block-1-contact-line p, .text-field_label {
+.ab-line-p, .block-2-line-p, .ab-line-p-tn, .block-1-prj-line p, .block-1-donate-line-box p, .block-1-contact-line p, .text-field_label {
   color: #ffffff;
 }
 
@@ -34,7 +30,7 @@ body {
   color: #000;
 }
 
-.block-2-wwd, .block-1-plastic, .container-tn {
+.block-2-wwd, .block-1-plastic, .container-tn, .block-1-donate {
   background: #2b4b37;
 }
 
@@ -46,6 +42,6 @@ body {
   color: #ffffff;
 }
 
-.burger-item-line1, .burger-item-line2, .burger-item-line3 {
+/* .burger-item-line1, .burger-item-line2, .burger-item-line3, .block-1-donate-line {
   background: #ffffff;
-}
+} */

@@ -25,6 +25,12 @@
   grid-template-columns: 1fr 1fr 1fr 1fr;
 }
 
+.block-6-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
 .block-6-card img{
   border-radius: 8px;
 }

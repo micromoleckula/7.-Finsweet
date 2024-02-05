@@ -25,11 +25,13 @@
 
 .block-1-plastic-left {
   display: flex;
+  align-items: center;
   margin-right: 50px;
 }
 
 .block-1-plastic-right {
   display: flex;
+  align-items: center;
 }
 
 .block-1-plastic-left p {
