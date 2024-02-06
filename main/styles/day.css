@@ -2,17 +2,9 @@ h1, h2, h3, h4, h5, h6{
 	color: #1D2130;
 }
 
-
-
 p {
   color: #525560;
 }
-
-/* .burger-item-line1, .burger-item-line2, .burger-item-line3 {
-  background: #000000;
-} */
-
-
 
 .block-1-contact-card-1-p-a, .block-2-prj-card h1, .block-1-prj-bottom-ul {
   color: #1D2130;
@@ -32,8 +24,4 @@ p {
 
 .input-modal-1-con, .input-modal-2-con, .input-modal-3-con, .input-modal-33-con, .input-modal-4-con {
   color: #1D2130;
-}
-
-.burger-item-line1, .burger-item-line2, .burger-item-line3 {
-  background: #1D2130;
 }

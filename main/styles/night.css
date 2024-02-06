@@ -18,7 +18,7 @@ body {
   background: rgb(255, 255, 255);
 }
 
-.ab-line-p, .block-2-line-p, .ab-line-p-tn, .block-1-prj-line p, .block-1-donate-line-box p, .block-1-contact-line p, .text-field_label {
+.ab-line-p, .block-2-line-p, .ab-line-p-tn, .block-1-prj-line p, .block-1-donate-line-box p, .block-1-contact-line p, .text-field_label, .block-1-donate-line  {
   color: #ffffff;
 }
 
@@ -42,6 +42,44 @@ body {
   color: #ffffff;
 }
 
-/* .burger-item-line1, .burger-item-line2, .burger-item-line3, .block-1-donate-line {
-  background: #ffffff;
-} */
+
+.window-volun h2 {
+  color: #ffffff;
+}
+
+.window-volun p {
+  color: var(--Secondary-text, #b3b3b3);
+}
+
+.join-volunteer-window {
+  background: #2e2e2e;
+}
+
+.modal {
+  background-color: rgba(0,0,0,0.5);
+}
+
+.input-modal-1 {
+  color: #ffffff;
+}
+
+.input-modal-2 {
+  color: #ffffff;
+}
+
+.input-modal-3 {
+  color: #ffffff;
+}
+
+.input-modal-4 {
+  color: #ffffff;
+  border-color: #5a5a5a;
+}
+
+.text-field__label {
+  color: var(--Primary-text, #ffffff);
+}
+
+.modal-btn-thxs {
+  color: var(--Secondary-text, #e4e4e4);
+}
